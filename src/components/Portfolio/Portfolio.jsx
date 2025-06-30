@@ -11,7 +11,7 @@ export default function Portfolio() {
         <Hero />
         <Project />
         <Skill />
-        <About />
+        {/* <About /> */}
       </main>
 
       <footer id="contact" className="bg-yellow-400 py-12 shadow-inner">
